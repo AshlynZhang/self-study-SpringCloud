@@ -27,7 +27,7 @@ In short, the microservice architectural(架构) style is an approach to develop
 
 ### 单体应用
 
-![image-20200708224716035](SpringCloud 微服务工具集v1.1.assets/image-20200708224716035.png)
+![image-20200708224716035](https://github.com/AshlynZhang/self-study-SpringCloud/blob/main/02springcloud/%E7%AC%94%E8%AE%B0/SpringCloud%20%E5%BE%AE%E6%9C%8D%E5%8A%A1%E5%B7%A5%E5%85%B7%E9%9B%86v1.1.assets/image-20200708224716035.png)
 
 ```markdown
 # 1.优点
